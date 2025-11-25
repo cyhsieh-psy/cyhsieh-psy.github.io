@@ -7,6 +7,7 @@ excerpt: "This paper explores the relevance of classic language models in the mo
 venue: "Nature Reviews Psychology"
 slidesurl: ""
 paperurl: "https://doi.org/10.1038/s44159-025-00508-z"
+date: 2025-01-01
 bibtexurl: ""
 citation: "Hsieh, C. Y. (2025). &quot;The relevance of classic language models in the age of AI.&quot; <i>Nature Reviews Psychology</i>."
 ---
