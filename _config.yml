@@ -23,7 +23,7 @@ repository               : "cyhsieh-psy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "images/profile.jpeg"
   name             : "Cheng-Yu Hsieh"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate / Psycholinguist"
