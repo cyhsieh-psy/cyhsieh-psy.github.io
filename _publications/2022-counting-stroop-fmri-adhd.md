@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-counting-stroop-fmri-adhd.md
 excerpt: "This fMRI study investigates the effects of ORADUR-methylphenidate on cognitive control in drug-naive children with ADHD."
-date: 2022
 venue: "Journal of Child and Adolescent Psychopharmacology"
 slidesurl: ""
 paperurl: "http://doi.org/10.1089/cap.2022.0024"
