@@ -7,6 +7,7 @@ excerpt: "This study investigates compositional processing in Chinese compound r
 venue: "Psychonomic Bulletin & Review"
 slidesurl: ""
 paperurl: "https://doi.org/10.3758/s13423-025-02668-8"
+date: 2025-01-01
 bibtexurl: ""
 citation: "Hsieh, C. Y., Marelli, M., & Rastle, K. (2025). &quot;Compositional processing in the recognition of Chinese compounds: Behavioural and computational studies.&quot; <i>Psychonomic Bulletin & Review</i>."
 ---
