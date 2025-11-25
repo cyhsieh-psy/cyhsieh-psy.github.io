@@ -2,7 +2,7 @@
 - title: "Beyond quantity of experience: Exploring the role of semantic consistency in Chinese character knowledge"
   collection: publications
   category: manuscripts
-  permalink: /publication/2024-beyond-quantity-semantic-consistency
+  permalink: /publication/2024-beyond-quantity-semantic-consistency.md
   excerpt: "This paper examines how semantic consistency affects Chinese character knowledge beyond sheer exposure."
   date: 2024
   venue: "Journal of Experimental Psychology: Learning, Memory, and Cognition"
