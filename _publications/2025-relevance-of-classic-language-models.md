@@ -2,7 +2,7 @@
 title: "The relevance of classic language models in the age of AI"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-relevance-of-classic-language-models.md
+permalink: /publication/2025-relevance-of-classic-language-models/
 excerpt: "This paper explores the relevance of classic language models in the modern age of AI."
 venue: "Nature Reviews Psychology"
 slidesurl: ""
