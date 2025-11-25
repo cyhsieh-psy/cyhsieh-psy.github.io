@@ -220,15 +220,15 @@ kramdown:
 collections:
   teaching:
     output: false
-    permalink: /:collection/:path/
+    permalink: /teaching/:name/
   publications:
     output: true
     permalink: /publications/
   portfolio:
     output: false
-    permalink: /:collection/:path/
+    permalink: /portfolio/:name/
   talks:
-    output: false
+    output: true
     permalink: /talks/:name/
 
 
