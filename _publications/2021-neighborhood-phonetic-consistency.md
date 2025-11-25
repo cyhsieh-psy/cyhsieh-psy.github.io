@@ -2,7 +2,7 @@
 title: "The concept of neighborhood underlying the phonetic consistency effect in Chinese character recognition: A four-decade review and beyond"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-neighborhood-phonetic-consistency.md
+permalink: /publication/2021-neighborhood-phonetic-consistency/
 excerpt: "This paper reviews the phonetic consistency effect in Chinese character recognition over four decades."
 venue: "Reading and Writing: An Interdisciplinary Journal"
 slidesurl: ""
