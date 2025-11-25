@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-neighborhood-phonetic-consistency.md
 excerpt: "This paper reviews the phonetic consistency effect in Chinese character recognition over four decades."
-date: 2021
 venue: "Reading and Writing: An Interdisciplinary Journal"
 slidesurl: ""
 paperurl: "https://doi.org/10.1007/s11145-020-10119-0"
