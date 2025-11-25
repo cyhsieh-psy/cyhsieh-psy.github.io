@@ -7,6 +7,7 @@ excerpt: "This paper reviews the phonetic consistency effect in Chinese characte
 venue: "Reading and Writing: An Interdisciplinary Journal"
 slidesurl: ""
 paperurl: "https://doi.org/10.1007/s11145-020-10119-0"
+date: 2021-01-01
 bibtexurl: ""
 citation: "Hsieh, C. Y., Lin, W. C., Li, M. F., & Wu, J. T. (2021). &quot;The concept of neighborhood underlying the phonetic consistency effect in Chinese character recognition: A four-decade review and beyond.&quot; <i>Reading and Writing: An Interdisciplinary Journal</i>."
 ---
