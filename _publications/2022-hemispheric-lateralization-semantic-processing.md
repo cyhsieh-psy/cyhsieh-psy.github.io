@@ -2,7 +2,7 @@
 title: "Hemispheric lateralization of semantic processing before and after aripiprazole treatment in first-episode psychosis or ultra-high risk state"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-hemispheric-lateralization-semantic-processing.md
+permalink: /publication/2022-hemispheric-lateralization-semantic-processing/
 excerpt: "This study investigates semantic processing lateralization in psychosis patients before and after aripiprazole treatment."
 venue: "Schizophrenia"
 slidesurl: ""
