@@ -24,6 +24,7 @@ repository               : "cyhsieh-psy.github.io"
 author:
   # Biographic information
   avatar           : "profile_small.jpeg"
+  avatar_style: "width: 150px; height: 150px; border-radius: 50%;"
   name             : "Cheng-Yu Hsieh"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate / Psycholinguist"
