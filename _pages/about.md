@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "Hi, This is Cheng-Yu's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Hi, I’m Cheng-Yu Hsieh
 
 I am a PhD candidate funded by Ministry of Education, Taiwan. I am a member of [Rastle Lab: Literacy, Language, Learning](https://www.rastlelab.com/), which is based in [Department of Psychology, Royal Holloway, Unversity of London](https://www.linkedin.com/company/rhul-psychology/). 
 
