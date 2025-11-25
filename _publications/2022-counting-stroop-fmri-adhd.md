@@ -7,6 +7,7 @@ excerpt: "This fMRI study investigates the effects of ORADUR-methylphenidate on 
 venue: "Journal of Child and Adolescent Psychopharmacology"
 slidesurl: ""
 paperurl: "http://doi.org/10.1089/cap.2022.0024"
+date: 2022-01-01
 bibtexurl: ""
 citation: "Shang, C. Y., Chou, T. L., Hsieh, C. Y., & Gau, S. S. F. (2022). &quot;A counting Stroop functional magnetic resonance imaging study on the effects of ORADUR-methylphenidate in drug-naive children with attention-deficit/hyperactivity disorder.&quot; <i>Journal of Child and Adolescent Psychopharmacology</i>."
 ---
