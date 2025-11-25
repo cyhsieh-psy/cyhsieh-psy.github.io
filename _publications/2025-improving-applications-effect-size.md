@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-improving-applications-effect-size.md
 excerpt: "This paper improves the use of design-comparable effect sizes in single-case designs."
-date: 2025
 venue: "Behavior Research Methods"
 slidesurl: ""
 paperurl: "https://doi.org/10.3758/s13428-025-02715-1"
