@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-hemispheric-lateralization-semantic-processing.md
 excerpt: "This study investigates semantic processing lateralization in psychosis patients before and after aripiprazole treatment."
-date: 2022
 venue: "Schizophrenia"
 slidesurl: ""
 paperurl: "https://doi.org/10.1038/s41537-022-00304-1"
