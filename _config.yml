@@ -29,7 +29,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate / Psycholinguist"
   location         : "Egham, UK"
-  employer         : "[Royal Holloway Psychology](https://www.linkedin.com/company/rhul-psychology/)"
+  employer         : "'<a href="https://www.linkedin.com/company/rhul-psychology/">Royal Holloway Psychology</a>'"
   uri              : # URL
   email            : "Cheng-Yu.Hsieh.2021@live.rhul.ac.uk" 
 
