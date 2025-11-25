@@ -8,6 +8,7 @@ venue: "Behavior Research Methods"
 slidesurl: ""
 paperurl: "https://doi.org/10.3758/s13428-025-02715-1"
 bibtexurl: ""
+date: 2025-01-01
 citation: "Chen, Y. K., Yang, T. R., Chen, L. T., Hsieh, C. Y., Cheng, C., Wu, P. J., & Peng, J. C. Y. (2025). &quot;Improving applications of a design-comparable effect size in single-case designs.&quot; <i>Behavior Research Methods</i>."
 ---
 
