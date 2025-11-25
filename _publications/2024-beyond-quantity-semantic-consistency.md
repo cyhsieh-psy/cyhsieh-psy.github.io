@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-beyond-quantity-semantic-consistency.md
 excerpt: "This paper examines how semantic consistency affects Chinese character knowledge beyond sheer exposure."
-date: 2024
 venue: "Journal of Experimental Psychology: Learning, Memory, and Cognition"
 slidesurl: ""
 paperurl: "https://doi.org/10.1037/xlm0001294"
