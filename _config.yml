@@ -9,7 +9,6 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "air" # Currently available options are "default", "air"
-minimal_mistakes_skin    : "aqua"
 title                    : "Cheng-Yu Hsieh"
 title_separator          : "-"
 name                     : &name "Cheng-Yu Hsieh"
