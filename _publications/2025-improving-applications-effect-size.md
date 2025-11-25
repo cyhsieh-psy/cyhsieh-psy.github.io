@@ -2,7 +2,7 @@
 title: "Improving applications of a design-comparable effect size in single-case designs"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-improving-applications-effect-size.md
+permalink: /publication/2025-improving-applications-effect-size/
 excerpt: "This paper improves the use of design-comparable effect sizes in single-case designs."
 venue: "Behavior Research Methods"
 slidesurl: ""
