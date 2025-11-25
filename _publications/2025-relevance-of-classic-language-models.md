@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-relevance-of-classic-language-models.md
 excerpt: "This paper explores the relevance of classic language models in the modern age of AI."
-date: 2025
 venue: "Nature Reviews Psychology"
 slidesurl: ""
 paperurl: "https://doi.org/10.1038/s44159-025-00508-z"
