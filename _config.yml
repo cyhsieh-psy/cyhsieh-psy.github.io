@@ -288,6 +288,18 @@ defaults:
       author_profile: true
       share: true
 
+# Top menu / navigation
+pages:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    url: /publication/
 
 # Sass/SCSS
 sass:
