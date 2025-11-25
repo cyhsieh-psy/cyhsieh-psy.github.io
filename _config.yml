@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile_small.jpeg"
   #avatar_style: "width: 150px; height: 150px; border-radius: 50%;"
-  name             : "Cheng-Yu Hsieh (謝承佑)"
+  name             : "Cheng-Yu Hsieh \n (謝承佑)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate / Psycholinguist"
+  bio              : "PhD Candidate / Cognitive Psychologist"
   location         : "Egham, UK"
   employer         : "Royal Holloway Psychology"
   uri              : # URL
