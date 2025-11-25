@@ -2,7 +2,7 @@
 title: "Compositional processing in the recognition of Chinese compounds: Behavioural and computational studies"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-compositional-processing-chinese-compounds.md
+permalink: /publication/2025-compositional-processing-chinese-compounds/
 excerpt: "This study investigates compositional processing in Chinese compound recognition using behavioral and computational methods."
 venue: "Psychonomic Bulletin & Review"
 slidesurl: ""
