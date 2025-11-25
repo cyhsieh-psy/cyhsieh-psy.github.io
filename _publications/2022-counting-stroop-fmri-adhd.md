@@ -2,7 +2,7 @@
 title: "A counting Stroop functional magnetic resonance imaging study on the effects of ORADUR-methylphenidate in drug-naive children with attention-deficit/hyperactivity disorder"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-counting-stroop-fmri-adhd.md
+permalink: /publication/2022-counting-stroop-fmri-adhd/
 excerpt: "This fMRI study investigates the effects of ORADUR-methylphenidate on cognitive control in drug-naive children with ADHD."
 venue: "Journal of Child and Adolescent Psychopharmacology"
 slidesurl: ""
