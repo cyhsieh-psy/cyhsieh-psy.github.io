@@ -8,6 +8,7 @@ date: 2024
 venue: "Behavior Research Methods"
 slidesurl: ""
 paperurl: "https://doi.org/10.3758/s13428-022-02035-8"
+date: 2024-01-01
 bibtexurl: ""
 citation: "Chen, L. T., Chen, Y. K., Yang, T. R., Chiang, Y. S., Hsieh, C. Y., Cheng, C., Ding, C. W., Wu, P. J., & Peng, J. C. Y. (2024). &quot;Examining the normality assumption of a design-comparable effect size in single-case designs.&quot; <i>Behavior Research Methods</i>."
 ---
