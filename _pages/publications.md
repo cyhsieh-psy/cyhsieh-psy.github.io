@@ -4,14 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Publications
 
 ## Articles under review
+
 - Lopukhina, A., Cooper, H., **Hsieh, C.-Y.**, van Heuven, W., & Rastle, K. (Under review). No evidence that same-language subtitles improve children’s reading fluency. Preprint at [https://doi.org/10.31234/osf.io/eh4pb_v1](https://doi.org/10.31234/osf.io/eh4pb_v1)
 
 ## Peer-reviewed journal articles
-
-- **Hsieh, C.-Y.** (2025). The relevance of classic language models in the age of AI. *Nature Reviews Psychology*. [https://doi.org/10.1038/s44159-025-00508-z](https://doi.org/10.1038/s44159-025-00508-z)
 
 - Chen, Y. K., Yang, T. R., Chen, L. T., **Hsieh, C.-Y.**, Cheng, C., Wu, P. J. & Peng, J. C. Y. (2025). Improving applications of a design-comparable effect size in single-case designs. *Behavior Research Methods*, *5*, 279. [https://doi.org/10.3758/s13428-025-02715-1](https://doi.org/10.3758/s13428-025-02715-1). Data and analyis code: [https://osf.io/qtzvw](https://osf.io/qtzvw)
 
@@ -29,4 +27,6 @@ author_profile: true
 
 - Chen, L. T., Ding, C. W., **Hsieh, C.-Y.**, Chen, Y. K., Chiang, Y. S., Huang, S. C., Yang, T. R., Cheng, C., Liou, P. Y., & Peng, J. C. Y. (2020). Effect size reporting practices in Taiwanese psychology and education journals: Review and beyond. *Chinese Journal of Psychology*, *62*(4), 553–592. [https://psycnet.apa.org/record/2021-07388-006](https://psycnet.apa.org/record/2021-07388-006). . Data and analyis code: [https://osf.io/n69xs](https://osf.io/n69xs)
 
+## Others
 
+- **Hsieh, C.-Y.** (2025). The relevance of classic language models in the age of AI. *Nature Reviews Psychology*. [https://doi.org/10.1038/s44159-025-00508-z](https://doi.org/10.1038/s44159-025-00508-z)
