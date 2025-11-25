@@ -1,5 +1,5 @@
 ---
-title: "Making sense from the parts: What Chinese compounds tell us about reading/>"
+title: "Making sense from the parts: What Chinese compounds tell us about reading"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-making-sense-milan
