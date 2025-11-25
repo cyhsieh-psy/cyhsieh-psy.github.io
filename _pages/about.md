@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Hi, This is Cheng-Yu's Personal Website"
-layout: home
 author_profile: true
 redirect_from: 
   - /about/
