@@ -7,6 +7,7 @@ excerpt: "This paper examines how semantic consistency affects Chinese character
 venue: "Journal of Experimental Psychology: Learning, Memory, and Cognition"
 slidesurl: ""
 paperurl: "https://doi.org/10.1037/xlm0001294"
+date: 2024-01-01
 bibtexurl: ""
 citation: "Hsieh, C. Y., Marelli, M., & Rastle, K. (2024). &quot;Beyond quantity of experience: Exploring the role of semantic consistency in Chinese character knowledge.&quot; <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>."
 ---
