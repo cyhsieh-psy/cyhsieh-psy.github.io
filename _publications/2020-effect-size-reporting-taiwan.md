@@ -4,7 +4,6 @@ collection: publications
 category: manuscripts
 permalink: /publication/2020-effect-size-reporting-taiwan.md
 excerpt: "This paper reviews effect size reporting practices in Taiwanese psychology and education journals."
-date: 2020
 venue: "Chinese Journal of Psychology"
 slidesurl: ""
 paperurl: "https://psycnet.apa.org/record/2021-07388-006"
