@@ -3,7 +3,7 @@ title: "No evidence that same-language subtitles improve children’s reading fl
 collection: publications
 category: preprint
 permalink: /publication/2025-same-language-subtitles/
-excerpt: "This paper explores the relevance of classic language models in the modern age of AI."
+excerpt: ""
 venue: "PsyArxiv"
 slidesurl: ""
 paperurl: "https://osf.io/preprints/psyarxiv/eh4pb_v1"
