@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile_small.jpeg"
   #avatar_style: "width: 150px; height: 150px; border-radius: 50%;"
-  name             : "Cheng-Yu Hsieh 謝承佑"
+  name             : "Cheng-Yu Hsieh"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate / Cognitive Psychologist"
   location         : "Egham, UK"
@@ -85,7 +85,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Peer-reviewed Journal Articles'    
   conferences:
     title: 'Conference Papers'
   preprints:
