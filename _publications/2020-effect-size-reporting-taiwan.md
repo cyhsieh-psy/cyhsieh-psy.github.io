@@ -2,7 +2,7 @@
 title: "Effect size reporting practices in Taiwanese psychology and education journals: Review and beyond"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-effect-size-reporting-taiwan.md
+permalink: /publication/2020-effect-size-reporting-taiwan/
 excerpt: "This paper reviews effect size reporting practices in Taiwanese psychology and education journals."
 venue: "Chinese Journal of Psychology"
 slidesurl: ""
