@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Cheng-Yu"
+title                    : "Cheng-Yu Hsieh"
 title_separator          : "-"
 name                     : &name "Cheng-Yu Hsieh"
 description              : &description "academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
