@@ -26,6 +26,7 @@ author:
   avatar           : "profile_small.jpeg"
   #avatar_style: "width: 150px; height: 150px; border-radius: 50%;"
   name             : "Cheng-Yu Hsieh"
+  chinese_name     : "謝承佑"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate / Cognitive Psychologist"
   location         : "Egham, UK"
