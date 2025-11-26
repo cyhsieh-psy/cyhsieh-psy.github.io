@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "Cheng-Yu Hsieh"
 title_separator          : "-"
 name                     : &name "Cheng-Yu Hsieh, 謝承佑"
-description              : &description "Cognitive psychology, psycholinguistics, computational modelling/ 認知心理學、語言心理學、計算認知科學"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Research on language, cognition, psycholinguistics, computational modeling, and Chinese compound word processing. 認知心理學、語言心理學、計算認知科學、中文閱讀"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://cyhsieh-psy.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
