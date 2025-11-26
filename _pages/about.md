@@ -11,10 +11,8 @@ I am a PhD candidate funded by Ministry of Education, Taiwan. I am a member of [
 
 # Research Interest
 
-I’m a cognitive psychologist/psycholinguist, passionate about how humans read, learn, and process language. My research explores the intersection of **language, cognition, and computational modelling**, with a focus on understanding how people learn to deal with ambiguity that is ubiquitous in human language.
+I’m a cognitive psychologist/psycholinguist, fascinated by how humans read, learn, and process language. My research lies at the intersection of **language, cognition, and computational modelling**, with a focus on how people navigate the ambiguity that is ubiquitous and inherent in human language.
 
-My PhD project focuses on how readers make sense of compound words (e.g., _armchair_, _blood bank_). Specifically, I look into this issue in Chinese compounds, which are the most common word type in the Chinese writing system (e.g., the word for _vase_ in Chinese is composed of _flower_ and _bottle_). 
+My PhD project investigates how readers make sense of compound words (e.g., _armchair_, _blood bank_) via their constituents, especially when a constituent word has multiple meanings/senses depending on context (e.g., _bank_ in _blood bank_ vs in _riverbank_). I study this phenomenon in Chinese compounds, the most common word type in the Chinese writing system (e.g., the word for _vase_ in Chinese is composed of _flower_ and _bottle_). 
 
-Additionally, my research follows the principles of open and reproducible science, with an emphasis on transparent methodology, sharing of data and code, and preregistration of studies whenever possible.
-
-
+In addition to my core research, I am deeply committed to transparent, reproducible, and robust research, including preregistration of studies, sharing of data and code, and improving the methodological standards in psychology and psycholinguistics. I have also contributed to methodology-focused projects, including the evaluation of effect size metrics for single-case designs and computational modelling approaches. 
