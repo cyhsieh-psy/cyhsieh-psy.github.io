@@ -4,7 +4,6 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-
 ## Invited Talks
 - Making sense from the parts: What Chinese compounds tell us about reading (October 2025).
 A talk hosted by Prof Marco Marelli, Department of Psychology, University of Milano-Bicocca, Milan, Italy. [[recording](https://www.youtube.com/watch?v=v7DHox_6duE)][[slides](/talks/Milano_Bicocca_27Oct.pdf)]
@@ -20,6 +19,8 @@ Language Neuroscience Lab, Prof Tai-Li Chou, National Taiwan University, Taiwan.
 The Word Lab, Prof Jennifer Rodd, University College London, UK.
 - The meaningful information in Chinese characters – and how readers tune into it (October 2023).
 Rank Symposium on the Visual Processing of Faces and Words, Grasmere, UK.
+
+⸻
 
 ## Conference Presentations
 ### Oral presentations
@@ -63,8 +64,6 @@ Same Joint Conference, Changhua, Taiwan.
 Therapeutic effects of the 8-week ORADUR on drug-naïve children with ADHD: A Counting Stroop fMRI study.
 Annual Meeting of the American College of Neuropsychopharmacology (ANCP), Phoenix, Arizona, USA.
 
-⸻
-
 ### Poster presentations
 - **Hsieh, C.-Y.** (June 2025).
 Resolving linguistic ambiguity in the Chinese writing system.
@@ -80,3 +79,8 @@ Annual Meeting of the Cognitive Neuroscience Society, Boston, USA
 Developmental effects on transparency and consistency in semantic processing of Chinese characters.
 Joint Conference of the 17th Conference on the Processing of East Asian Languages & 9th Conference on Language, Discourse, and Cognition, Taipei, Taiwan.
 
+⸻
+
+## Others
+- Featured on “The Other Kind of Doctor” podcast, [Episode 13](https://podcasts.apple.com/gb/podcast/ep-13-the-phd-as-an-international-student-with-cheng-yu-hsieh/id1729403055?i=1000656146483) — The PhD as an international student - with Cheng-Yu Hsieh (2024, in English, link)
+- Featured on “nine_o_seven” podcast, [Episode 32](https://podcasts.apple.com/gb/podcast/32%E5%BF%83%E7%90%86%E7%B3%BB%E4%B8%80%E5%AE%9A%E5%BE%88%E7%86%9F%E4%BD%9B%E6%B4%9B%E4%BC%8A%E5%BE%B7-%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%B8%AB%E8%88%87%E8%AB%AE%E5%95%86%E5%BF%83%E7%90%86%E5%B8%AB%E5%8F%88%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C%E5%91%A2/id1529127199?i=1000517393318) — Are psychology majors all familiar with Freud? What’s the difference between clinical psychologists and counselling psychologists? (2021, in Mandarin, link)
