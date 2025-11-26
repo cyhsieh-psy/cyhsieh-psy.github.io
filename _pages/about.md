@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Cheng-Yu Hsieh (謝承佑)'s Personal Website"
+title: "Cheng-Yu Hsieh (謝承佑)"
 author_profile: true
 redirect_from: 
   - /about/
