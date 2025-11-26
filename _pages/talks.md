@@ -7,9 +7,9 @@ author_profile: true
 
 ## Invited talks
 - Making sense from the parts: What Chinese compounds tell us about reading (October 2025).
-A talk hosted by Prof Marco Marelli, Department of Psychology, University of Milano-Bicocca, Milan, Italy.
+A talk hosted by Prof Marco Marelli, Department of Psychology, University of Milano-Bicocca, Milan, Italy. [Recording](https://www.youtube.com/watch?v=v7DHox_6duE)), [slides](/talks/Milano Bicocca_27Oct.pdf)
 - Making sense from the parts: What Chinese compounds tell us about reading (October 2025).
-Online talk hosted by the Society of German Word Nerd Network.
+Online talk hosted by the Society of German Word Nerd Network. 
 - What Chinese lexical processing reveals about language and cognition: Developmental, neurocognitive, computational, and psychometric perspectives (July 2025).
 Department of Psychology, National Chung-Cheng University, Taiwan.
 - Making sense from the parts: What Chinese compounds tell us about reading (April 2025).
