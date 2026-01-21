@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research Output"
 permalink: /publications/
 author_profile: true
 ---
 
 ## Articles under review
+
+- Taylor, J. S. H., Jowett, A., Auer, T., **Hsieh, C.-Y.**, Lingnau, A., Rastle, K. (under revision). The nature of a writing system shapes the cognitive and neural mechanisms for reading acquisition.
+Preprint at [https://osf.io/preprints/osf/xm6hv_v1](https://osf.io/preprints/osf/xm6hv_v1)
 
 - Lopukhina, A., Cooper, H., **Hsieh, C.-Y.**, van Heuven, W., & Rastle, K. (Under review). No evidence that same-language subtitles improve children’s reading fluency. Preprint at [https://doi.org/10.31234/osf.io/eh4pb_v1](https://doi.org/10.31234/osf.io/eh4pb_v1)
 
@@ -30,3 +33,6 @@ author_profile: true
 ## Others
 
 - **Hsieh, C.-Y.** (2025). The relevance of classic language models in the age of AI. *Nature Reviews Psychology*. [https://doi.org/10.1038/s44159-025-00508-z](https://doi.org/10.1038/s44159-025-00508-z)
+
+- **Hsieh, C.-Y.** (2020). Longitudinal Changes in Neural Substrates of Inhibitory Control from Childhood to Adolescence among Youths with and without ADHD: A Counting Stroop Functional MRI Study. *Master Dissertation*. [https://doi.org/10.6342/NTU202001800](https://doi.org/10.6342/NTU202001800)
+
