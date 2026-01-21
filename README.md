@@ -3,6 +3,13 @@
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
+# Frequently used
+- _config.yml
+- _data/navigation.yml
+- _pages/publications.md
+- _page/talks.md
+- files/CV.pdf
+
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
