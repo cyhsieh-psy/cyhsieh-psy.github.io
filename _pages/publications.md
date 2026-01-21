@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Articles under review
+## Articles under review / Preprint
 
 - Taylor, J. S. H., Jowett, A., Auer, T., **Hsieh, C.-Y.**, Lingnau, A., Rastle, K. (under revision). The nature of a writing system shapes the cognitive and neural mechanisms for reading acquisition.
 Preprint at [https://osf.io/preprints/osf/xm6hv_v1](https://osf.io/preprints/osf/xm6hv_v1)
@@ -32,7 +32,7 @@ Preprint at [https://osf.io/preprints/osf/xm6hv_v1](https://osf.io/preprints/osf
 
 ## Others
 
-- **Hsieh, C.-Y.** (2025). The relevance of classic language models in the age of AI. *Nature Reviews Psychology*. [https://doi.org/10.1038/s44159-025-00508-z](https://doi.org/10.1038/s44159-025-00508-z)
+- **Hsieh, C.-Y.** (2025). The relevance of classic language models in the age of AI. *Nature Reviews Psychology*. [https://doi.org/10.1038/s44159-025-00508-z](https://doi.org/10.1038/s44159-025-00508-z) (Journal Club Commentary)
 
 - **Hsieh, C.-Y.** (2020). Longitudinal Changes in Neural Substrates of Inhibitory Control from Childhood to Adolescence among Youths with and without ADHD: A Counting Stroop Functional MRI Study. *Master Dissertation*. [https://doi.org/10.6342/NTU202001800](https://doi.org/10.6342/NTU202001800)
 
