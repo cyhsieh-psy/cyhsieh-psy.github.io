@@ -6,6 +6,7 @@
 # Frequently used
 - _config.yml
 - _data/navigation.yml
+- _pages/about.md
 - _pages/publications.md
 - _page/talks.md
 - files/CV.pdf
