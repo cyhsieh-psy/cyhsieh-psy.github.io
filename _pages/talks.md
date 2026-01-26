@@ -37,7 +37,7 @@ Postgraduate Research Convention, Royal Holloway, University of London, UK.
 Making sense of Chinese compound words.
 Experimental Psychology Society Meeting, York, UK.
 - **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (May 2024).
-Stacking Chinese Characters: Insights from Computational Modelling.
+Stacking Chinese characters: Insights from computational modelling.
 Psycholinguistics in Flanders (PiF) Conference, Brussels, Belgium.
 - **Hsieh, C.-Y.**. (March 2024).
 The meaningful information in Chinese characters – and how readers tune into it.
