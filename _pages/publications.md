@@ -7,7 +7,9 @@ author_profile: true
 
 ## Articles under review / Preprint
 
-- Taylor, J. S. H., Jowett, A., Auer, T., **Hsieh, C.-Y.**, Lingnau, A., Rastle, K. (under revision). The nature of a writing system shapes the cognitive and neural mechanisms for reading acquisition.
+- **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (Under review). How do readers interpret ambiguous constituents in novel Chinese compound words? Preprint at [https://osf.io/preprints/psyarxiv/jd2rg_v1](https://osf.io/preprints/psyarxiv/jd2rg_v1)
+
+- Taylor, J. S. H., Jowett, A., Auer, T., **Hsieh, C.-Y.**, Lingnau, A., Rastle, K. (Under review). The nature of a writing system shapes the cognitive and neural mechanisms for reading acquisition.
 Preprint at [https://osf.io/preprints/osf/xm6hv_v1](https://osf.io/preprints/osf/xm6hv_v1)
 
 - Lopukhina, A., Cooper, H., **Hsieh, C.-Y.**, van Heuven, W., & Rastle, K. (Under review). No evidence that same-language subtitles improve children’s reading fluency. Preprint at [https://doi.org/10.31234/osf.io/eh4pb_v1](https://doi.org/10.31234/osf.io/eh4pb_v1)
