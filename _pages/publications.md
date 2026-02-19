@@ -13,7 +13,7 @@ author_profile: true
 
 - Lopukhina, A., Cooper, H., **Hsieh, C.-Y.**, van Heuven, W., & Rastle, K. (Accepted). No evidence that same-language subtitles improve children’s reading fluency. *British Journal of Psychology*. Preprint at [https://doi.org/10.31234/osf.io/eh4pb_v1](https://doi.org/10.31234/osf.io/eh4pb_v1)
 
-- Taylor, J. S. H., Jowett, A., Auer, T., **Hsieh, C.-Y.**, Lingnau, A., Rastle, K. (Accepted). The nature of a writing system shapes the cognitive and neural mechanisms for reading acquisition. *Neurobiology of Language*. Preprint at [https://osf.io/nujm3/files/26bnk](https://osf.io/nujm3/files/26bnk)
+- Taylor, J. S. H., Jowett, A., Auer, T., **Hsieh, C.-Y.**, Lingnau, A., Rastle, K. (Accepted). The nature of a writing system shapes the cognitive and neural mechanisms for reading acquisition. *Neurobiology of Language*. Preprint at [https://osf.io/nujm3/files/26bnk](https://osf.io/nujm3/files/26bnk). Data and analysis code: [https://osf.io/nujm3/](https://osf.io/nujm3/)
 
 - Chen, Y. K., Yang, T. R., Chen, L. T., **Hsieh, C.-Y.**, Cheng, C., Wu, P. J. & Peng, J. C. Y. (2025). Improving applications of a design-comparable effect size in single-case designs. *Behavior Research Methods*, *5*, 279. [https://doi.org/10.3758/s13428-025-02715-1](https://doi.org/10.3758/s13428-025-02715-1). Data and analyis code: [https://osf.io/qtzvw](https://osf.io/qtzvw)
 
