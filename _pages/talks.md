@@ -8,7 +8,7 @@ author_profile: true
 - Making sense from the parts: What Chinese compounds tell us about reading (October 2025).
 A talk hosted by Prof Marco Marelli, Department of Psychology, University of Milano-Bicocca, Milan, Italy. [[recording](https://www.youtube.com/watch?v=v7DHox_6duE)][[slides](/talks/Milano_Bicocca_27Oct.pdf)]
 - Making sense from the parts: What Chinese compounds tell us about reading (October 2025).
-An online talk hosted by the Society of German Word Nerd Network. 
+An online talk hosted by the Society of [German Word Nerd Network](https://sites.google.com/view/gewonn/home). 
 - What Chinese lexical processing reveals about language and cognition: Developmental, neurocognitive, computational, and psychometric perspectives (July 2025).
 Department of Psychology, National Chung-Cheng University, Taiwan.
 - Making sense from the parts: What Chinese compounds tell us about reading (April 2025).
@@ -26,7 +26,7 @@ Rank Symposium on the Visual Processing of Faces and Words, Grasmere, UK.
 ### Oral presentations
 - **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (September 2025).
 How readers resolve ambiguity in unfamiliar compound words: Computational and behavioural studies in Chinese.
-Conference of the European Society for Cognitive Psychology, Sheffield, UK.
+Conference of the [European Society for Cognitive Psychology](https://www.escop.eu/), Sheffield, UK.
 - **Hsieh, C.-Y.** (September 2024).
 When characters misbehave: Making sense of Chinese compound words.
 Departmental meeting, Royal Holloway, University of London, UK.
@@ -35,10 +35,10 @@ When characters misbehave: Making sense of Chinese compound words.
 Postgraduate Research Convention, Royal Holloway, University of London, UK.
 - **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (July 2024).
 Making sense of Chinese compound words.
-Experimental Psychology Society Meeting, York, UK.
+[Experimental Psychology Society Meeting, York, UK.](https://eps.ac.uk/wp-content/uploads/2024/06/EPS-York-Programme.pdf)
 - **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (May 2024).
 Stacking Chinese characters: Insights from computational modelling.
-Psycholinguistics in Flanders (PiF) Conference, Brussels, Belgium.
+[Psycholinguistics in Flanders (PiF) Conference, Brussels, Belgium.](https://www.vub.be/en/event/psycholinguistics-in-flanders-pif-conference-in-brussels)
 - **Hsieh, C.-Y.**. (March 2024).
 The meaningful information in Chinese characters – and how readers tune into it.
 Forum for Research in Language and Literacy (FRiLL), London, UK.
@@ -67,10 +67,10 @@ Annual Meeting of the American College of Neuropsychopharmacology (ANCP), Phoeni
 ### Poster presentations
 - **Hsieh, C.-Y.** (June 2025).
 Resolving linguistic ambiguity in the Chinese writing system.
-MEDAL Summer School in Computational Modelling, University of Birmingham, UK.
+[MEDAL Summer School in Computational Modelling, University of Birmingham, UK.](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/)
 - **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (January 2023).
 Learning and generalisation of Chinese characters.
-Experimental Psychology Society Meeting, London, UK.
+[Experimental Psychology Society Meeting, London, UK.](https://eps.ac.uk/wp-content/uploads/2022/12/EPS-London-Meeting-Programme-1.pdf)
 - **Hsieh, C.-Y.**, Gau, S. S. F., & Chou, T. L. (March 2020).
 Developmental changes in neural substrates of inhibitory control among youths with and without ADHD.
 Annual Meeting of the Cognitive Neuroscience Society, Boston, USA
@@ -83,4 +83,4 @@ Joint Conference of the 17th Conference on the Processing of East Asian Language
 
 ## Others
 - Featured on “The Other Kind of Doctor” podcast, [Episode 13](https://podcasts.apple.com/gb/podcast/ep-13-the-phd-as-an-international-student-with-cheng-yu-hsieh/id1729403055?i=1000656146483) — The PhD as an international student - with Cheng-Yu Hsieh (2024, in English)
-- Featured on “nine_o_seven” podcast, [Episode 32](https://podcasts.apple.com/gb/podcast/32%E5%BF%83%E7%90%86%E7%B3%BB%E4%B8%80%E5%AE%9A%E5%BE%88%E7%86%9F%E4%BD%9B%E6%B4%9B%E4%BC%8A%E5%BE%B7-%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%B8%AB%E8%88%87%E8%AB%AE%E5%95%86%E5%BF%83%E7%90%86%E5%B8%AB%E5%8F%88%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C%E5%91%A2/id1529127199?i=1000517393318) — Are psychology majors all familiar with Freud? What’s the difference between clinical psychologists and counselling psychologists? (2021, in Mandarin)
+- Featured on “nine_o_seven” podcast, [Episode 32](https://podcasts.apple.com/gb/podcast/32%E5%BF%83%E7%90%86%E7%B3%BB%E4%B8%80%E5%AE%9A%E5%BE%88%E7%86%9F%E4%BD%9B%E6%B4%9B%E4%BC%8A%E5%BE%B7-%E8%87%A8%E5%BA%8A%E5%BF%83%E7%90%86%E5%B8%AB%E8%88%87%E8%AB%AE%E5%95%86%E5%BF%83%E7%90%86%E5%B8%AB%E5%8F%88%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C%E5%91%A2/id1529127199?i=1000517393318) — Are psychology majors all familiar with Freud? What’s the difference between clinical psychologists and counselling psychologists? (2021, in Taiwanese Mandarin)
