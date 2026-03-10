@@ -11,7 +11,7 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-- Lopukhina, A., Cooper, H., **Hsieh, C.-Y.**, van Heuven, W., & Rastle, K. (2026). No evidence that same-language subtitles improve children’s reading fluency. *British Journal of Psychology*. Advance Online Publication. [http://doi.org/10.1111/bjop.70066](http://doi.org/10.1111/bjop.70066). Data and analysis code: [https://osf.io/xp5ac/](https://osf.io/xp5ac/)
+- Lopukhina, A., Cooper, H., **Hsieh, C.-Y.**, van Heuven, W. J. B., & Rastle, K. (2026). No evidence that same-language subtitles improve children’s reading fluency. *British Journal of Psychology*. Advance Online Publication. [http://doi.org/10.1111/bjop.70066](http://doi.org/10.1111/bjop.70066). Data and analysis code: [https://osf.io/xp5ac/](https://osf.io/xp5ac/)
 
 - Taylor, J. S. H., Jowett, A., Auer, T., **Hsieh, C.-Y.**, Lingnau, A., Rastle, K. (2026). The nature of a writing system shapes the cognitive and neural mechanisms for reading acquisition. *Neurobiology of Language*. Advance Online Publication. [https://doi.org/10.1162/NOL.a.248](https://doi.org/10.1162/NOL.a.248). Data, analysis code, and preprint: [https://osf.io/nujm3/](https://osf.io/nujm3/)
 
