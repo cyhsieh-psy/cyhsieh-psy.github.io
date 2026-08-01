@@ -27,11 +27,11 @@ author:
   #avatar_style: "width: 150px; height: 150px; border-radius: 50%;"
   name             : "Cheng-Yu Hsieh<br>謝承佑"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate / Psycholinguist"
-  location         : "Egham, UK"
-  employer         : "Royal Holloway Psychology"
-  uri              : "https://pure.royalholloway.ac.uk/en/persons/cheng-yu-hsieh/"
-  email            : "Cheng-Yu.Hsieh.2021@live.rhul.ac.uk" 
+  bio              : "Assistant Professor / Psycholinguist"
+  location         : "Chiayi, Taiwan"
+  employer         : "National Chung Cheng University"
+  uri              : "https://psy.ccu.edu.tw/p/406-1085-93042,r3972.php?Lang=en"
+  email            : "psycyh@ccu.edu.tw" 
 
   # Academic websites
   academia         : # URL
