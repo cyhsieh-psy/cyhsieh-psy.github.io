@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate funded by Ministry of Education, Taiwan, and a member of [Rastle Lab: Literacy, Language, Learning](https://www.rastlelab.com/) in the [Department of Psychology, Royal Holloway, Unversity of London](https://www.linkedin.com/company/rhul-psychology/). 
+I am a Assistant Professor based in [Department of Psychology, National Chung Cheng University](https://psy.ccu.edu.tw/?Lang=en), Chiayi, Taiwan. Supervised by Prof Kathleen Rastle, Prof Marco MArelli, and Prof Chris Watkins, I did my PhD at the [Department of Psychology, Royal Holloway, Unversity of London](https://www.linkedin.com/company/rhul-psychology/). 
 
 # Research Interest
 
