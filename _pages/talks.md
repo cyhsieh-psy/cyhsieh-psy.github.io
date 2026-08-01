@@ -10,7 +10,7 @@ A talk hosted by Prof Marco Marelli, Department of Psychology, University of Mil
 - Making sense from the parts: What Chinese compounds tell us about reading (October 2025).
 An online talk hosted by the Society of [German Word Nerd Network](https://sites.google.com/view/gewonn/home). 
 - What Chinese lexical processing reveals about language and cognition: Developmental, neurocognitive, computational, and psychometric perspectives (July 2025).
-Department of Psychology, National Chung-Cheng University, Taiwan.
+Department of Psychology, National Chung Cheng University, Taiwan.
 - Making sense from the parts: What Chinese compounds tell us about reading (April 2025).
 Joint Lab Meeting hosted by Prof Kate Nation and Prof Elizabeth Wonnacott, University of Oxford, UK.
 - Learning from distributional semantic models (DSMs): Insights into Chinese compound words (December 2024).
