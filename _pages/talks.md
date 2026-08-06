@@ -67,7 +67,7 @@ Annual Meeting of the American College of Neuropsychopharmacology (ANCP), Phoeni
 ### Poster presentations
 - **Hsieh, C.-Y.** (June 2025).
 Resolving linguistic ambiguity in the Chinese writing system.
-[MEDAL Summer School in Computational Modelling, University of Birmingham, UK.](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/)
+[MEDAL Summer School in Computational Modelling, University of Birmingham, UK.](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/)[Poster](/files/MEDAL_Cheng-Yu_Hsieh.pdf)
 - **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (January 2023).
 Learning and generalisation of Chinese characters.
 [Experimental Psychology Society Meeting, London, UK.](https://eps.ac.uk/wp-content/uploads/2022/12/EPS-London-Meeting-Programme-1.pdf)
