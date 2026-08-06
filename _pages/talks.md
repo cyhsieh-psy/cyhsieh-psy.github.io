@@ -10,7 +10,7 @@ A talk hosted by Prof Marco Marelli, Department of Psychology, University of Mil
 - Making sense from the parts: What Chinese compounds tell us about reading (October 2025).
 An online talk hosted by the Society of [German Word Nerd Network](https://sites.google.com/view/gewonn/home). 
 - What Chinese lexical processing reveals about language and cognition: Developmental, neurocognitive, computational, and psychometric perspectives (July 2025).
-Department of Psychology, National Chung Cheng University, Taiwan.
+[Department of Psychology, National Chung Cheng University, Taiwan.](https://psy.ccu.edu.tw/p/406-1085-76281,r1956.php?Lang=zh-tw)
 - Making sense from the parts: What Chinese compounds tell us about reading (April 2025).
 Joint Lab Meeting hosted by Prof Kate Nation and Prof Elizabeth Wonnacott, University of Oxford, UK.
 - Learning from distributional semantic models (DSMs): Insights into Chinese compound words (December 2024).
@@ -18,7 +18,7 @@ Language Neuroscience Lab, Prof Tai-Li Chou, National Taiwan University, Taiwan.
 - Making sense of Chinese compound words (August 2024).
 The Word Lab, Prof Jennifer Rodd, University College London, UK.
 - The meaningful information in Chinese characters – and how readers tune into it (October 2023).
-Rank Symposium on the Visual Processing of Faces and Words, Grasmere, UK.
+[Rank Symposium on the Visual Processing of Faces and Words](https://www.rankprize.org/symposia/visual-processing-of-faces-and-words/), Grasmere, UK.
 
 ⸻
 
@@ -67,7 +67,7 @@ Annual Meeting of the American College of Neuropsychopharmacology (ANCP), Phoeni
 ### Poster presentations
 - **Hsieh, C.-Y.** (June 2025).
 Resolving linguistic ambiguity in the Chinese writing system.
-[MEDAL Summer School in Computational Modelling, University of Birmingham, UK.](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/) [[poster](/files/MEDAL_Cheng-Yu_Hsieh.pdf)]
+[MEDAL Summer School in Computational Modelling, University of Birmingham, UK.](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/) [[poster](../files/MEDAL_Cheng-Yu_Hsieh.pdf)]
 - **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (January 2023).
 Learning and generalisation of Chinese characters.
 [Experimental Psychology Society Meeting, London, UK.](https://eps.ac.uk/wp-content/uploads/2022/12/EPS-London-Meeting-Programme-1.pdf)
