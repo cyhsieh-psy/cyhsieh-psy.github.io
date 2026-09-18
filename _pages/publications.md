@@ -13,7 +13,7 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 
-- **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (Accepted). How do readers interpret ambiguous constituents in novel Chinese compound words? *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Postprint at [https://doi.org/10.31234/osf.io/jd2rg_v2](https://doi.org/10.31234/osf.io/jd2rg_v2)
+- **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (Accepted). How do readers interpret ambiguous constituents in novel Chinese compound words? *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Postprint at [https://doi.org/10.31234/osf.io/jd2rg_v2](https://doi.org/10.31234/osf.io/jd2rg_v2). Data and analysis code: [https://osf.io/xw9pq](https://osf.io/xw9pq)
 
 - Lopukhina, A., Cooper, H., **Hsieh, C.-Y.**, van Heuven, W. J. B., & Rastle, K. (2026). No evidence that same-language subtitles improve children’s reading fluency. *British Journal of Psychology*. Advance Online Publication. [http://doi.org/10.1111/bjop.70066](http://doi.org/10.1111/bjop.70066). Data and analysis code: [https://osf.io/xp5ac/](https://osf.io/xp5ac/)
 
