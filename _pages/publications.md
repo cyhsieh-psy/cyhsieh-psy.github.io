@@ -7,15 +7,15 @@ author_profile: true
 
 ## Articles under review / Preprint
 
-- Cevoli, B., Watkins, C., **Hsieh, C.-Y.**, Gao, Y., & Rastle, K. (Under review). Shades of meaning: Uncovering the geometry of ambiguous word representations through contextualised language models.
-
 - Liu, Y. & **Hsieh, C.-Y.** (Under review). Multiple routes of semantic transparency reveal lexical superstate in Chinese compound processing: Behavioral and computational approaches. Preprint at [https://osf.io/y3xh4_v1](https://osf.io/y3xh4_v1)
 
 ## Peer-reviewed journal articles
 
+- Cevoli, B., Watkins, C., **Hsieh, C.-Y.**, Gao, Y., & Rastle, K. (Accepted). Shades of meaning: Uncovering the geometry of ambiguous word representations through contextualised language models. *Quarterly Journal of Experimental Psychology*
+
 - **Hsieh, C.-Y.**, Marelli, M., & Rastle, K. (Accepted). How do readers interpret ambiguous constituents in novel Chinese compound words? *Journal of Experimental Psychology: Learning, Memory, and Cognition*. Postprint at [https://doi.org/10.31234/osf.io/jd2rg_v2](https://doi.org/10.31234/osf.io/jd2rg_v2). Data and analysis code: [https://osf.io/xw9pq](https://osf.io/xw9pq)
 
-- Lopukhina, A., Cooper, H., **Hsieh, C.-Y.**, van Heuven, W. J. B., & Rastle, K. (2026). No evidence that same-language subtitles improve children’s reading fluency. *British Journal of Psychology*. Advance Online Publication. [http://doi.org/10.1111/bjop.70066](http://doi.org/10.1111/bjop.70066). Data and analysis code: [https://osf.io/xp5ac/](https://osf.io/xp5ac/)
+- Lopukhina, A., Cooper, H., **Hsieh, C.-Y.**, van Heuven, W. J. B., & Rastle, K. (2026). No evidence that same-language subtitles improve children’s reading fluency. *British Journal of Psychology*. *117*(4), 1308-1325. [http://doi.org/10.1111/bjop.70066](http://doi.org/10.1111/bjop.70066). Data and analysis code: [https://osf.io/xp5ac/](https://osf.io/xp5ac/)
 
 - Taylor, J. S. H., Jowett, A., Auer, T., **Hsieh, C.-Y.**, Lingnau, A., Rastle, K. (2026). The nature of a writing system shapes the cognitive and neural mechanisms for reading acquisition. *Neurobiology of Language*. *7*, NOL-a.248. [https://doi.org/10.1162/NOL.a.248](https://doi.org/10.1162/NOL.a.248). Data, analysis code, and preprint: [https://osf.io/nujm3/](https://osf.io/nujm3/)
 
